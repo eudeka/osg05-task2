@@ -127,7 +127,7 @@ Padding(
 );
 ```
 
-Untuk _source code_ lebih lengkap bisa coba lihat [disini]().
+Untuk _source code_ lebih lengkap bisa coba lihat [disini](../lib/main.dart).
 
 ---
 
