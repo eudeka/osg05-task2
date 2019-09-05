@@ -127,7 +127,7 @@ Padding(
 );
 ```
 
-Untuk _source code_ lebih lengkap bisa coba lihat [disini](../lib/main.dart).
+Untuk _source code_ lebih lengkap bisa coba lihat [disini](https://github.com/eudeka/osg05-task2).
 
 ---
 
