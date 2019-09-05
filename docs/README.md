@@ -2,7 +2,7 @@
 Tugas ke-2 kelas OSG05 dengan materi UI dan UX (layouting).
 
 ## Screenshot
-![](osg05-task2/docs/screenshot.png).
+![](docs/screenshot.png).
 
 ---
 
@@ -127,7 +127,7 @@ Padding(
 );
 ```
 
-Untuk _source code_ lebih lengkap bisa coba lihat [disini](osg05-task2/lib/main.dart).
+Untuk _source code_ lebih lengkap bisa coba lihat [disini](lib/main.dart).
 
 ---
 
